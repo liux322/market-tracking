@@ -53,6 +53,8 @@ public class MainClass {
 
         int max = new Solution().maxNodeLevel(root);
         System.out.println(max);
+
+
     }
 
 }
